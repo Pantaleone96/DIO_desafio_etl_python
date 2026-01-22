@@ -42,8 +42,8 @@ Certifique-se de ter o [Python](https://www.python.org/) instalado em sua máqui
 
 1.  **Clone o repositório**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
-    cd NOME-DO-REPO
+    git clone [https://github.com/Pantaleone96/DIO_desafio_etl_python.git](https://github.com/Pantaleone96/DIO_desafio_etl_python.git)
+    cd DIO_desafio_etl_python
     ```
 
 2.  **Instale as dependências**
